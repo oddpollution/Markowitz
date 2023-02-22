@@ -37,7 +37,7 @@ A known index used to quantify the risk versus return of an asset or a portfolio
 
 ### Example 
 
-Using the maximized protfolio example attached to this git, the following happens.
+Using the maximized portfolio example attached to this git, the following happens.
 
 * Return:
 
