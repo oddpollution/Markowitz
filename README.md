@@ -8,7 +8,7 @@ This git repository contains code with data inserted into the program to educate
 
 This code is developed in order to observe the best-fitting asset portfolio based on its historical data.
 
-#### The theory
+## The theory
 
 Based on the same idea, one asset's evaluation is analyzed by its expected return and variance in order to visualize risk and return.
 As each independent asset is correlated, the portfolio follows the same path.
